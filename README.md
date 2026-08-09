@@ -29,11 +29,11 @@ Python · pandas · NumPy · Matplotlib · Seaborn · Jupyter Notebook
 This is a single cross-sectional snapshot with no time-series or causal data — the findings describe *association*, not proven causation, and would need a controlled test (e.g., an A/B retention offer) to validate before rollout.
 
 ## Files
-- `IBM Final.ipynb` — full analysis notebook
+- `telco-churn-retention-pipeline.ipynb` — full analysis notebook
 - `WA_Fn-UseC_-Telco-Customer-Churn.csv` — source data (https://www.kaggle.com/datasets/palashfendarkar/wa-fnusec-telcocustomerchurn/data)
 
 ## How to Run
 ```bash
 pip install pandas numpy matplotlib seaborn jupyter
-jupyter notebook "IBM Final.ipynb"
+jupyter notebook "telco-churn-retention-pipeline.ipynb"
 ```
